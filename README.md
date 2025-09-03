@@ -1,7 +1,8 @@
 # Focus
 
 ## Introduction
-Focus is a graduation project that presents an interactive application designed as a game to improve users' concentration. The app provides a fun and simple way to practice focus and enhance attention. It is designed with engaging features and modern technologies to make the experience enjoyable and effective for different types of users.
+Focus is a graduation project that introduces an interactive game powered by Brain-Computer Interface (BCI) technology. By using EEG signals, the application is designed to help users practice and improve their focus and attention in an enjoyable way. The project highlights the growing role of technology in supporting concentration through innovative and engaging solutions. Unlike traditional methods, it combines real-time brain activity monitoring with a playful gaming environment to create an interactive training experience. The goal is to provide a tool that is simple, effective, and accessible for anyone looking to strengthen their ability to concentrate.
+
 
 
 ## Technology
