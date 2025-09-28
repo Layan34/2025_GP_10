@@ -17,4 +17,4 @@ Rakkiz is a graduation project that introduces an interactive game powered by Br
    git clone https://github.com/Layan34/2025_GP_10.git
 2. Open the project in Unity Hub → 2025_GP_10/Unity
 3. Use Unity 2022.3.x LTS (check ProjectVersion.txt)
-4. Open MainScreen.unity from Scenes and press Play
+4. Open MainScreen.unity from Scenes and press Play (Display Settings Full HD (1920x1080))
