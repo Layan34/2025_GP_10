@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: de4c172709eb21144a19e23e8903ad4d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241318
+  packageName: Cute Birds 2D(8 in 1) Pack
+  packageVersion: 2.0
+  assetPath: Assets/Cute_Birds(8 in 1)/B8_Crow/Sprite_Sheets/Crow2_with_Box.png
+  uploadId: 567446
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1022240825284837723
+    second: Crow2_with_Box_0
+  - first:
+      213: 8174266967069204160
+    second: Crow2_with_Box_1
+  - first:
+      213: -5889861624067070670
+    second: Crow2_with_Box_2
+  - first:
+      213: 5239325228072986983
+    second: Crow2_with_Box_3
+  - first:
+      213: 4839559766544566531
+    second: Crow2_with_Box_4
+  - first:
+      213: -7734062088310066464
+    second: Crow2_with_Box_5
+  - first:
+      213: -6140497233727673558
+    second: Crow2_with_Box_6
+  - first:
+      213: 2552430247419611442
+    second: Crow2_with_Box_7
+  - first:
+      213: 5046069564016451612
+    second: Crow2_with_Box_8
+  - first:
+      213: 2548795298458043794
+    second: Crow2_with_Box_9
+  - first:
+      213: -5744373588633527555
+    second: Crow2_with_Box_10
+  - first:
+      213: -8327169966052495437
+    second: Crow2_with_Box_11
+  - first:
+      213: 7805371758186246722
+    second: Crow2_with_Box_12
+  - first:
+      213: -6848192020221924079
+    second: Crow2_with_Box_13
+  - first:
+      213: 3551891032085576906
+    second: Crow2_with_Box_14
+  - first:
+      213: 8120458073686227926
+    second: Crow2_with_Box_15
+  - first:
+      213: 8673904191820182929
+    second: Crow2_with_Box_16
+  - first:
+      213: -4345512466533192760
+    second: Crow2_with_Box_17
+  - first:
+      213: 77521202024369611
+    second: Crow2_with_Box_18
+  - first:
+      213: 2602048393185266
+    second: Crow2_with_Box_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crow2_with_Box_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2247
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5141025d9abf2e00800000000000000
+      internalID: 1022240825284837723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_1
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2247
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce9e575f74d07170800000000000000
+      internalID: 8174266967069204160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_2
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2247
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235e6490f02034ea0800000000000000
+      internalID: -5889861624067070670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_3
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 2247
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769680a2982d5b840800000000000000
+      internalID: 5239325228072986983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_4
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 2247
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309492277f1992340800000000000000
+      internalID: 4839559766544566531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1498
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2767be1871ba490800000000000000
+      internalID: -7734062088310066464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_6
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1498
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ba467bc4298caa0800000000000000
+      internalID: -6140497233727673558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_7
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1498
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239886369cd0c6320800000000000000
+      internalID: 2552430247419611442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_8
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 1498
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c106c13888d370640800000000000000
+      internalID: 5046069564016451612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_9
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 1498
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29507c1e1d32f5320800000000000000
+      internalID: 2548795298458043794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 749
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfadc58f7a2e740b0800000000000000
+      internalID: -5744373588633527555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_11
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 749
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfa32df803ff6c80800000000000000
+      internalID: -8327169966052495437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_12
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 749
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242be8a6240425c60800000000000000
+      internalID: 7805371758186246722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_13
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 749
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de10114a556f0a0800000000000000
+      internalID: -6848192020221924079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_14
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 749
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc3b50331ada4130800000000000000
+      internalID: 3551891032085576906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db358f0899a1b070800000000000000
+      internalID: 8120458073686227926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_16
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 0
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195b639f7e5ef5870800000000000000
+      internalID: 8673904191820182929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_17
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbe1496f63a1b3c0800000000000000
+      internalID: -4345512466533192760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_18
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 0
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd493d5f19631100800000000000000
+      internalID: 77521202024369611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2_with_Box_19
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 928
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f70a2a9c8e390000800000000000000
+      internalID: 2602048393185266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crow2_with_Box_0: 1022240825284837723
+      Crow2_with_Box_1: 8174266967069204160
+      Crow2_with_Box_10: -5744373588633527555
+      Crow2_with_Box_11: -8327169966052495437
+      Crow2_with_Box_12: 7805371758186246722
+      Crow2_with_Box_13: -6848192020221924079
+      Crow2_with_Box_14: 3551891032085576906
+      Crow2_with_Box_15: 8120458073686227926
+      Crow2_with_Box_16: 8673904191820182929
+      Crow2_with_Box_17: -4345512466533192760
+      Crow2_with_Box_18: 77521202024369611
+      Crow2_with_Box_19: 2602048393185266
+      Crow2_with_Box_2: -5889861624067070670
+      Crow2_with_Box_3: 5239325228072986983
+      Crow2_with_Box_4: 4839559766544566531
+      Crow2_with_Box_5: -7734062088310066464
+      Crow2_with_Box_6: -6140497233727673558
+      Crow2_with_Box_7: 2552430247419611442
+      Crow2_with_Box_8: 5046069564016451612
+      Crow2_with_Box_9: 2548795298458043794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: e341ef830dc2282409dbdd7d543d11f6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241318
+  packageName: Cute Birds 2D(8 in 1) Pack
+  packageVersion: 2.0
+  assetPath: Assets/Cute_Birds(8 in 1)/B3_Egret/Sprites/Bird3_Egret6.png
+  uploadId: 567446
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3005106710822044031
+    second: Bird3_Egret6_0
+  - first:
+      213: 5261663237939447775
+    second: Bird3_Egret6_1
+  - first:
+      213: -1672103079442900877
+    second: Bird3_Egret6_2
+  - first:
+      213: -7864144555346058401
+    second: Bird3_Egret6_3
+  - first:
+      213: 2927720007062123937
+    second: Bird3_Egret6_4
+  - first:
+      213: -5043735539223354728
+    second: Bird3_Egret6_5
+  - first:
+      213: -8998458932956232526
+    second: Bird3_Egret6_6
+  - first:
+      213: 2241203611244967192
+    second: Bird3_Egret6_7
+  - first:
+      213: 1658387003206174674
+    second: Bird3_Egret6_8
+  - first:
+      213: -6894102806425286329
+    second: Bird3_Egret6_9
+  - first:
+      213: -3483685424691763119
+    second: Bird3_Egret6_10
+  - first:
+      213: 6331652016412282408
+    second: Bird3_Egret6_11
+  - first:
+      213: 7259180839593232578
+    second: Bird3_Egret6_12
+  - first:
+      213: 2900867450073823277
+    second: Bird3_Egret6_13
+  - first:
+      213: -7232653883946827341
+    second: Bird3_Egret6_14
+  - first:
+      213: 8172342285247848769
+    second: Bird3_Egret6_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bird3_Egret6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2376
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71c0bab1a844b920800000000000000
+      internalID: 3005106710822044031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_1
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2376
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7cc1166de250940800000000000000
+      internalID: 5261663237939447775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_2
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 2376
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37818f1cb1f7bc8e0800000000000000
+      internalID: -1672103079442900877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_3
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 2376
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53a6446132fcd290800000000000000
+      internalID: -7864144555346058401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5fdbea5d951a820800000000000000
+      internalID: 2927720007062123937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_5
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1584
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892249bff3d010ab0800000000000000
+      internalID: -5043735539223354728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_6
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 1584
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4043fb64d0f1380800000000000000
+      internalID: -8998458932956232526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_7
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1584
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815349d5fca5a1f10800000000000000
+      internalID: 2241203611244967192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d78a326136c30710800000000000000
+      internalID: 1658387003206174674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_9
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 792
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7494ff9260a3350a0800000000000000
+      internalID: -6894102806425286329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_10
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 792
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158aa08409677afc0800000000000000
+      internalID: -3483685424691763119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_11
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 792
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ec3af56fb8ed750800000000000000
+      internalID: 6331652016412282408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8c648438acdb460800000000000000
+      internalID: 7259180839593232578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_13
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 0
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28b42e8393f14820800000000000000
+      internalID: 2900867450073823277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_14
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 0
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b10000ec9370ab90800000000000000
+      internalID: -7232653883946827341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird3_Egret6_15
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 0
+        width: 1114
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1412a1f620ef96170800000000000000
+      internalID: 8172342285247848769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bird3_Egret6_0: 3005106710822044031
+      Bird3_Egret6_1: 5261663237939447775
+      Bird3_Egret6_10: -3483685424691763119
+      Bird3_Egret6_11: 6331652016412282408
+      Bird3_Egret6_12: 7259180839593232578
+      Bird3_Egret6_13: 2900867450073823277
+      Bird3_Egret6_14: -7232653883946827341
+      Bird3_Egret6_15: 8172342285247848769
+      Bird3_Egret6_2: -1672103079442900877
+      Bird3_Egret6_3: -7864144555346058401
+      Bird3_Egret6_4: 2927720007062123937
+      Bird3_Egret6_5: -5043735539223354728
+      Bird3_Egret6_6: -8998458932956232526
+      Bird3_Egret6_7: 2241203611244967192
+      Bird3_Egret6_8: 1658387003206174674
+      Bird3_Egret6_9: -6894102806425286329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

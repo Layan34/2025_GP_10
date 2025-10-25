@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 159e1e49bbd7b8f41b0341f3e8301fc2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241318
+  packageName: Cute Birds 2D(8 in 1) Pack
+  packageVersion: 2.0
+  assetPath: Assets/Cute_Birds(8 in 1)/Others/Sprites/Shadow_Birds/SHD_bird5.png
+  uploadId: 567446
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2458630688794578059
+    second: SHD_bird5_0
+  - first:
+      213: -3482731311266283855
+    second: SHD_bird5_1
+  - first:
+      213: -2471468047365996443
+    second: SHD_bird5_2
+  - first:
+      213: -9071573303532083445
+    second: SHD_bird5_3
+  - first:
+      213: -6225888330917797070
+    second: SHD_bird5_4
+  - first:
+      213: 6918732873133499792
+    second: SHD_bird5_5
+  - first:
+      213: -8367313905176214831
+    second: SHD_bird5_6
+  - first:
+      213: 5227613875059484920
+    second: SHD_bird5_7
+  - first:
+      213: -8580145142675889725
+    second: SHD_bird5_8
+  - first:
+      213: 4324662648852582774
+    second: SHD_bird5_9
+  - first:
+      213: 2388885652963129390
+    second: SHD_bird5_10
+  - first:
+      213: -7634577669029463341
+    second: SHD_bird5_11
+  - first:
+      213: -6269353440100998540
+    second: SHD_bird5_12
+  - first:
+      213: -2488479379428131939
+    second: SHD_bird5_13
+  - first:
+      213: -34101153072705383
+    second: SHD_bird5_14
+  - first:
+      213: 328473744493110169
+    second: SHD_bird5_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SHD_bird5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 975
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57376883a6031edd0800000000000000
+      internalID: -2458630688794578059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 975
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beb7df135adaafc0800000000000000
+      internalID: -3482731311266283855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 975
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5608503c7e493bdd0800000000000000
+      internalID: -2471468047365996443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_3
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 975
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07ad09c42c4b1280800000000000000
+      internalID: -9071573303532083445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23325689c833999a0800000000000000
+      internalID: -6225888330917797070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 650
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095a0fe14e6440060800000000000000
+      internalID: 6918732873133499792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_6
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 650
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d209cdc55451eb80800000000000000
+      internalID: -8367313905176214831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_7
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 650
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8e2dd4f173c8840800000000000000
+      internalID: 5227613875059484920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1a289c3733de880800000000000000
+      internalID: -8580145142675889725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 325
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671124e14c9440c30800000000000000
+      internalID: 4324662648852582774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_10
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 325
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28f4e138d6072120800000000000000
+      internalID: 2388885652963129390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_11
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 325
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da7e5b4f088c0690800000000000000
+      internalID: -7634577669029463341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472286f3348cef8a0800000000000000
+      internalID: -6269353440100998540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b3d4e5035277dd0800000000000000
+      internalID: -2488479379428131939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9909ba49e29d68ff0800000000000000
+      internalID: -34101153072705383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHD_bird5_15
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 385
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993ed8a5129fe8400800000000000000
+      internalID: 328473744493110169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SHD_bird5_0: -2458630688794578059
+      SHD_bird5_1: -3482731311266283855
+      SHD_bird5_10: 2388885652963129390
+      SHD_bird5_11: -7634577669029463341
+      SHD_bird5_12: -6269353440100998540
+      SHD_bird5_13: -2488479379428131939
+      SHD_bird5_14: -34101153072705383
+      SHD_bird5_15: 328473744493110169
+      SHD_bird5_2: -2471468047365996443
+      SHD_bird5_3: -9071573303532083445
+      SHD_bird5_4: -6225888330917797070
+      SHD_bird5_5: 6918732873133499792
+      SHD_bird5_6: -8367313905176214831
+      SHD_bird5_7: 5227613875059484920
+      SHD_bird5_8: -8580145142675889725
+      SHD_bird5_9: 4324662648852582774
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

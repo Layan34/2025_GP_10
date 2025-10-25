@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b69b940d70979754b8abbe72417ddef1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241318
+  packageName: Cute Birds 2D(8 in 1) Pack
+  packageVersion: 2.0
+  assetPath: Assets/Cute_Birds(8 in 1)/Others/Animations/2_Fly_0.controller
+  uploadId: 567446

@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: bfe9384c8f052154fb66bd12cd956df2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241318
+  packageName: Cute Birds 2D(8 in 1) Pack
+  packageVersion: 2.0
+  assetPath: Assets/Cute_Birds(8 in 1)/B2_Duck/Sprites/Bird2 Duck_2.png
+  uploadId: 567446
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7434037226986835096
+    second: Bird2 Duck_2_0
+  - first:
+      213: -8172265863686359902
+    second: Bird2 Duck_2_1
+  - first:
+      213: 4438392453373750813
+    second: Bird2 Duck_2_2
+  - first:
+      213: 1764181089686146750
+    second: Bird2 Duck_2_3
+  - first:
+      213: 4682784672704519762
+    second: Bird2 Duck_2_4
+  - first:
+      213: 3688282055777002517
+    second: Bird2 Duck_2_5
+  - first:
+      213: -8449899672715263546
+    second: Bird2 Duck_2_6
+  - first:
+      213: -6218841502542737921
+    second: Bird2 Duck_2_7
+  - first:
+      213: 1719368225364143069
+    second: Bird2 Duck_2_8
+  - first:
+      213: -2689976594931044117
+    second: Bird2 Duck_2_9
+  - first:
+      213: 7424170121600567956
+    second: Bird2 Duck_2_10
+  - first:
+      213: -4128514573072812336
+    second: Bird2 Duck_2_11
+  - first:
+      213: -2403519848625078010
+    second: Bird2 Duck_2_12
+  - first:
+      213: -1124431167762852125
+    second: Bird2 Duck_2_13
+  - first:
+      213: 5099635674335557297
+    second: Bird2 Duck_2_14
+  - first:
+      213: -5712562481973083485
+    second: Bird2 Duck_2_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bird2 Duck_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2124
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8637b6e778ef4d890800000000000000
+      internalID: -7434037226986835096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2124
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a47ce8de77469e80800000000000000
+      internalID: -8172265863686359902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2124
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eed15bb66589d30800000000000000
+      internalID: 4438392453373750813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_3
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2124
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe4432aa51ab7810800000000000000
+      internalID: 1764181089686146750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e523079d79cf040800000000000000
+      internalID: 4682784672704519762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_5
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1416
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51429060df86f2330800000000000000
+      internalID: 3688282055777002517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_6
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1416
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c10e14640debba80800000000000000
+      internalID: -8449899672715263546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_7
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1416
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdcb7e2a9c32b9a0800000000000000
+      internalID: -6218841502542737921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb6ce69a4c6cd710800000000000000
+      internalID: 1719368225364143069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 708
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0350df9884baad0800000000000000
+      internalID: -2689976594931044117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_10
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 708
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a02120463f70760800000000000000
+      internalID: 7424170121600567956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_11
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 708
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6b8fd9ed194b6c0800000000000000
+      internalID: -4128514573072812336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6010a1c9e6bf4aed0800000000000000
+      internalID: -2403519848625078010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e61e177fc73560f0800000000000000
+      internalID: -1124431167762852125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b63ea470ab85c640800000000000000
+      internalID: 5099635674335557297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird2 Duck_2_15
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 896
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a245c860b6e8b0b0800000000000000
+      internalID: -5712562481973083485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bird2 Duck_2_0: -7434037226986835096
+      Bird2 Duck_2_1: -8172265863686359902
+      Bird2 Duck_2_10: 7424170121600567956
+      Bird2 Duck_2_11: -4128514573072812336
+      Bird2 Duck_2_12: -2403519848625078010
+      Bird2 Duck_2_13: -1124431167762852125
+      Bird2 Duck_2_14: 5099635674335557297
+      Bird2 Duck_2_15: -5712562481973083485
+      Bird2 Duck_2_2: 4438392453373750813
+      Bird2 Duck_2_3: 1764181089686146750
+      Bird2 Duck_2_4: 4682784672704519762
+      Bird2 Duck_2_5: 3688282055777002517
+      Bird2 Duck_2_6: -8449899672715263546
+      Bird2 Duck_2_7: -6218841502542737921
+      Bird2 Duck_2_8: 1719368225364143069
+      Bird2 Duck_2_9: -2689976594931044117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

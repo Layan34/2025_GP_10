@@ -1,0 +1,1203 @@
+fileFormatVersion: 2
+guid: 4dc3c842ba18f4041922ebaec6b82d82
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241318
+  packageName: Cute Birds 2D(8 in 1) Pack
+  packageVersion: 2.0
+  assetPath: Assets/Cute_Birds(8 in 1)/Others/Sprites/Props_for_Birds.png
+  uploadId: 567446
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5876365127051060493
+    second: Props_for_Birds_0
+  - first:
+      213: 1816825200372899881
+    second: Props_for_Birds_1
+  - first:
+      213: 977695882458144488
+    second: Props_for_Birds_2
+  - first:
+      213: 1563935384803746428
+    second: Props_for_Birds_3
+  - first:
+      213: 5672727504075956867
+    second: Props_for_Birds_4
+  - first:
+      213: 1238173290670021950
+    second: Props_for_Birds_5
+  - first:
+      213: 4162534948976904434
+    second: Props_for_Birds_6
+  - first:
+      213: 788482105763052656
+    second: Props_for_Birds_7
+  - first:
+      213: 5180671506825187192
+    second: Props_for_Birds_8
+  - first:
+      213: -2541097326643621569
+    second: Props_for_Birds_9
+  - first:
+      213: -203237752524658098
+    second: Props_for_Birds_10
+  - first:
+      213: -252907578266344259
+    second: Props_for_Birds_11
+  - first:
+      213: 4155100915079765150
+    second: Props_for_Birds_12
+  - first:
+      213: 1213412947856065453
+    second: Props_for_Birds_13
+  - first:
+      213: 1669784674221686881
+    second: Props_for_Birds_14
+  - first:
+      213: -2291890727190845451
+    second: Props_for_Birds_15
+  - first:
+      213: -6844271912059039233
+    second: Props_for_Birds_16
+  - first:
+      213: -5021470355120549773
+    second: Props_for_Birds_17
+  - first:
+      213: -1497483101104687355
+    second: Props_for_Birds_18
+  - first:
+      213: 2815357608856220902
+    second: Props_for_Birds_19
+  - first:
+      213: 4584364581792237681
+    second: Props_for_Birds_20
+  - first:
+      213: -5064871593053882745
+    second: Props_for_Birds_21
+  - first:
+      213: 7042045470508686386
+    second: Props_for_Birds_22
+  - first:
+      213: -2840244945874991084
+    second: Props_for_Birds_23
+  - first:
+      213: -7554824307336469760
+    second: Props_for_Birds_24
+  - first:
+      213: -1519782957942047046
+    second: Props_for_Birds_25
+  - first:
+      213: -6235652341344394570
+    second: Props_for_Birds_26
+  - first:
+      213: 6597341538114168315
+    second: Props_for_Birds_27
+  - first:
+      213: 6536439249535117096
+    second: Props_for_Birds_28
+  - first:
+      213: -1927366608634951122
+    second: Props_for_Birds_29
+  - first:
+      213: -3297826851431298171
+    second: Props_for_Birds_30
+  - first:
+      213: -6843903104872840249
+    second: Props_for_Birds_31
+  - first:
+      213: -3027259087683297435
+    second: Props_for_Birds_32
+  - first:
+      213: 3798697590971258997
+    second: Props_for_Birds_33
+  - first:
+      213: -1984788198481249825
+    second: Props_for_Birds_34
+  - first:
+      213: -2581915345375551969
+    second: Props_for_Birds_35
+  - first:
+      213: 5751046954238040853
+    second: Props_for_Birds_36
+  - first:
+      213: -6662443592926363458
+    second: Props_for_Birds_37
+  - first:
+      213: -7946437794959525306
+    second: Props_for_Birds_38
+  - first:
+      213: 5746940363677962651
+    second: Props_for_Birds_39
+  - first:
+      213: 5250916179898420780
+    second: Props_for_Birds_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Props_for_Birds_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2732
+        width: 319
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fad0af1d05f27ea0800000000000000
+      internalID: -5876365127051060493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2728
+        width: 319
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920643fc4e8a63910800000000000000
+      internalID: 1816825200372899881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2728
+        width: 319
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee974c9939719d00800000000000000
+      internalID: 977695882458144488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_3
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 2728
+        width: 319
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7224e642f634b510800000000000000
+      internalID: 1563935384803746428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_4
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 2750
+        width: 109
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382290c0c9399be40800000000000000
+      internalID: 5672727504075956867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_5
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 2748
+        width: 179
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d53c83c00ee2110800000000000000
+      internalID: 1238173290670021950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_6
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 2754
+        width: 109
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8cae66b7b44c930800000000000000
+      internalID: 4162534948976904434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_7
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 2741
+        width: 179
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c32c13c4041fa00800000000000000
+      internalID: 788482105763052656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2403
+        width: 245
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8d4e794175e740800000000000000
+      internalID: 5180671506825187192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2403
+        width: 244
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3156b9d1753cbcd0800000000000000
+      internalID: -2541097326643621569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_10
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2403
+        width: 245
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aa1d34754fd2df0800000000000000
+      internalID: -203237752524658098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_11
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2170
+        width: 291
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db42e64c5ed7d7cf0800000000000000
+      internalID: -252907578266344259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_12
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2170
+        width: 292
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cda318442e9a930800000000000000
+      internalID: 4155100915079765150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_13
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 2170
+        width: 292
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da302daa5a8e6d010800000000000000
+      internalID: 1213412947856065453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_14
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 869
+        width: 554
+        height: 1564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160006670544c2710800000000000000
+      internalID: 1669784674221686881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1822
+        width: 414
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f727cdc6819130e0800000000000000
+      internalID: -2291890727190845451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_16
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1685
+        width: 198
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1998f55f24401a0800000000000000
+      internalID: -6844271912059039233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_17
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1675
+        width: 197
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37092e02157205ab0800000000000000
+      internalID: -5021470355120549773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_18
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1678
+        width: 198
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5073185bd0fd73be0800000000000000
+      internalID: -1497483101104687355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_19
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1670
+        width: 197
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4719f24d8221720800000000000000
+      internalID: 2815357608856220902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_20
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1680
+        width: 254
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178cb925c4fee9f30800000000000000
+      internalID: 4584364581792237681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1102
+        width: 661
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7867e07fe16f5b9b0800000000000000
+      internalID: -5064871593053882745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_22
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1112
+        width: 502
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c91d98b0f5ab160800000000000000
+      internalID: 7042045470508686386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_23
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 883
+        width: 414
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418c50e154c6598d0800000000000000
+      internalID: -2840244945874991084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 912
+        width: 1073
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00329b4d15fd72790800000000000000
+      internalID: -7554824307336469760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 453
+        width: 482
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abefb20b375a8eae0800000000000000
+      internalID: -1519782957942047046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_26
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 463
+        width: 482
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2a553cb338679a0800000000000000
+      internalID: -6235652341344394570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 665
+        width: 359
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf56939bc277e8b50800000000000000
+      internalID: 6597341538114168315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_28
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 664
+        width: 339
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827267cadd816ba50800000000000000
+      internalID: 6536439249535117096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_29
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 573
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a4d54f74e9045e0800000000000000
+      internalID: -1927366608634951122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_30
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 23
+        width: 48
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b41b583f3cb32d0800000000000000
+      internalID: -3297826851431298171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_31
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 407
+        width: 193
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c38cdcf2629501a0800000000000000
+      internalID: -6843903104872840249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_32
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 433
+        width: 232
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f509b16e30df5d0800000000000000
+      internalID: -3027259087683297435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_33
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 446
+        width: 359
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57859f6255fa7b430800000000000000
+      internalID: 3798697590971258997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_34
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 324
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9332b36ad9474e0800000000000000
+      internalID: -1984788198481249825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 50
+        width: 285
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e92c64ca13b2cd0800000000000000
+      internalID: -2581915345375551969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_36
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 50
+        width: 285
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b53f90cb2dfcf40800000000000000
+      internalID: 5751046954238040853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_37
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 45
+        width: 298
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb00c83f9de3a83a0800000000000000
+      internalID: -6662443592926363458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_38
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 45
+        width: 298
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64af2b17de498b190800000000000000
+      internalID: -7946437794959525306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_39
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 76
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91116aefcb31cf40800000000000000
+      internalID: 5746940363677962651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_for_Birds_40
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 10
+        width: 194
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e4230f1700fd840800000000000000
+      internalID: 5250916179898420780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Props_for_Birds_0: -5876365127051060493
+      Props_for_Birds_1: 1816825200372899881
+      Props_for_Birds_10: -203237752524658098
+      Props_for_Birds_11: -252907578266344259
+      Props_for_Birds_12: 4155100915079765150
+      Props_for_Birds_13: 1213412947856065453
+      Props_for_Birds_14: 1669784674221686881
+      Props_for_Birds_15: -2291890727190845451
+      Props_for_Birds_16: -6844271912059039233
+      Props_for_Birds_17: -5021470355120549773
+      Props_for_Birds_18: -1497483101104687355
+      Props_for_Birds_19: 2815357608856220902
+      Props_for_Birds_2: 977695882458144488
+      Props_for_Birds_20: 4584364581792237681
+      Props_for_Birds_21: -5064871593053882745
+      Props_for_Birds_22: 7042045470508686386
+      Props_for_Birds_23: -2840244945874991084
+      Props_for_Birds_24: -7554824307336469760
+      Props_for_Birds_25: -1519782957942047046
+      Props_for_Birds_26: -6235652341344394570
+      Props_for_Birds_27: 6597341538114168315
+      Props_for_Birds_28: 6536439249535117096
+      Props_for_Birds_29: -1927366608634951122
+      Props_for_Birds_3: 1563935384803746428
+      Props_for_Birds_30: -3297826851431298171
+      Props_for_Birds_31: -6843903104872840249
+      Props_for_Birds_32: -3027259087683297435
+      Props_for_Birds_33: 3798697590971258997
+      Props_for_Birds_34: -1984788198481249825
+      Props_for_Birds_35: -2581915345375551969
+      Props_for_Birds_36: 5751046954238040853
+      Props_for_Birds_37: -6662443592926363458
+      Props_for_Birds_38: -7946437794959525306
+      Props_for_Birds_39: 5746940363677962651
+      Props_for_Birds_4: 5672727504075956867
+      Props_for_Birds_40: 5250916179898420780
+      Props_for_Birds_5: 1238173290670021950
+      Props_for_Birds_6: 4162534948976904434
+      Props_for_Birds_7: 788482105763052656
+      Props_for_Birds_8: 5180671506825187192
+      Props_for_Birds_9: -2541097326643621569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

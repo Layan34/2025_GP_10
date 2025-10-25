@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc56a42cfbd3a5942a58224db9dae4ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241318
+  packageName: Cute Birds 2D(8 in 1) Pack
+  packageVersion: 2.0
+  assetPath: Assets/Cute_Birds(8 in 1)/B3_Egret/Animations/Bird3_Egret2_0.controller
+  uploadId: 567446

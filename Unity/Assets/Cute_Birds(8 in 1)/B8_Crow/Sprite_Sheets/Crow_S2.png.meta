@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: 46b2e4fc3ff743e41b92adb7a1fad511
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241318
+  packageName: Cute Birds 2D(8 in 1) Pack
+  packageVersion: 2.0
+  assetPath: Assets/Cute_Birds(8 in 1)/B8_Crow/Sprite_Sheets/Crow_S2.png
+  uploadId: 567446
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 609791090591178512
+    second: Crow_S2_0
+  - first:
+      213: -9223067214388666338
+    second: Crow_S2_1
+  - first:
+      213: -6729722406943388184
+    second: Crow_S2_2
+  - first:
+      213: 1505114855294732713
+    second: Crow_S2_3
+  - first:
+      213: -147696387103596025
+    second: Crow_S2_4
+  - first:
+      213: 2032943592035450014
+    second: Crow_S2_5
+  - first:
+      213: -4347174631876545334
+    second: Crow_S2_6
+  - first:
+      213: -7623197428292166452
+    second: Crow_S2_7
+  - first:
+      213: 8302660541227753368
+    second: Crow_S2_8
+  - first:
+      213: -7821917104898231047
+    second: Crow_S2_9
+  - first:
+      213: -106831588209997929
+    second: Crow_S2_10
+  - first:
+      213: -709929758456841977
+    second: Crow_S2_11
+  - first:
+      213: -185296753309240906
+    second: Crow_S2_12
+  - first:
+      213: 3131802460767499630
+    second: Crow_S2_13
+  - first:
+      213: -5603750884649475404
+    second: Crow_S2_14
+  - first:
+      213: 6203169994385996809
+    second: Crow_S2_15
+  - first:
+      213: -8736334025956760470
+    second: Crow_S2_16
+  - first:
+      213: -1461838007546216912
+    second: Crow_S2_17
+  - first:
+      213: -9072101229892076744
+    second: Crow_S2_18
+  - first:
+      213: 3682482639827380797
+    second: Crow_S2_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crow_S2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2247
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f92ed14c9667800800000000000000
+      internalID: 609791090591178512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_1
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2247
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10efc20c35110080800000000000000
+      internalID: -9223067214388666338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_2
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2247
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed072160293b92a0800000000000000
+      internalID: -6729722406943388184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_3
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 2247
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a981088cfd33e410800000000000000
+      internalID: 1505114855294732713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_4
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 2247
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702e4102be643fdf0800000000000000
+      internalID: -147696387103596025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1498
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cfdab0d67763c10800000000000000
+      internalID: 2032943592035450014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_6
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1498
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4b86264bbbba3c0800000000000000
+      internalID: -4347174631876545334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_7
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1498
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc59f11456f43690800000000000000
+      internalID: -7623197428292166452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_8
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 1498
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f588ad5c9f83370800000000000000
+      internalID: 8302660541227753368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_9
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 1498
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f43dfbd5d7f27390800000000000000
+      internalID: -7821917104898231047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 749
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797c3fd8c35748ef0800000000000000
+      internalID: -106831588209997929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_11
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 749
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70973b365a2d526f0800000000000000
+      internalID: -709929758456841977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_12
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 749
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b138f8a591bd6df0800000000000000
+      internalID: -185296753309240906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_13
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 749
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65bdbcbeb5667b20800000000000000
+      internalID: 3131802460767499630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_14
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 749
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2efa6a24a7b32b0800000000000000
+      internalID: -5603750884649475404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c3dbc7e36161650800000000000000
+      internalID: 6203169994385996809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_16
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6460bf8d7e42c680800000000000000
+      internalID: -8736334025956760470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_17
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 0
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03efa09c31286bbe0800000000000000
+      internalID: -1461838007546216912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_18
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 0
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bf5e95ffb691280800000000000000
+      internalID: -9072101229892076744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_S2_19
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 0
+        width: 933
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a2476437eca1330800000000000000
+      internalID: 3682482639827380797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crow_S2_0: 609791090591178512
+      Crow_S2_1: -9223067214388666338
+      Crow_S2_10: -106831588209997929
+      Crow_S2_11: -709929758456841977
+      Crow_S2_12: -185296753309240906
+      Crow_S2_13: 3131802460767499630
+      Crow_S2_14: -5603750884649475404
+      Crow_S2_15: 6203169994385996809
+      Crow_S2_16: -8736334025956760470
+      Crow_S2_17: -1461838007546216912
+      Crow_S2_18: -9072101229892076744
+      Crow_S2_19: 3682482639827380797
+      Crow_S2_2: -6729722406943388184
+      Crow_S2_3: 1505114855294732713
+      Crow_S2_4: -147696387103596025
+      Crow_S2_5: 2032943592035450014
+      Crow_S2_6: -4347174631876545334
+      Crow_S2_7: -7623197428292166452
+      Crow_S2_8: 8302660541227753368
+      Crow_S2_9: -7821917104898231047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
