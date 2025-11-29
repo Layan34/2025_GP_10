@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MainScre.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/OLD/Characters.unity
+    guid: 470ed613c28f7449abd20cb5081d24ab
+  - enabled: 0
+    path: Assets/Scenes/OLD/Game.unity
+    guid: 75140a4cf1b7dce40b316abd5c812ffd
+  - enabled: 0
+    path: Assets/Scenes/OLD/Level.unity
+    guid: 25c48c03724e946219a3bdc90ccb7241
+  - enabled: 0
+    path: Assets/Scenes/OLD/StoryTelling.unity
+    guid: 5c72a13efc24f734da31362bb339c2ce
+  - enabled: 1
+    path: Assets/Scenes/InstructionsSceneGame1.unity
+    guid: 5bc640978dc9fc848aa2098791ad2436
+  - enabled: 0
+    path: Assets/Scenes/MainScreen.unity
+    guid: 99ce146fc20d4b440b4b643f5e8cf20f
+  - enabled: 1
+    path: Assets/Scenes/CharacterScene.unity
+    guid: b5342ba464bf4471eaa374cabac092f2
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 99224d7b063064296870116a77188e2a
+  - enabled: 0
+    path: Assets/Scenes/GameScene.unity
+    guid: dd267cad08eae4478a9c444726239d36
+  - enabled: 1
+    path: Assets/Scenes/EnterNameScene.unity
+    guid: ea993b178916a4a4194d115b80765bf2
+  - enabled: 1
+    path: Assets/Scenes/SkyRingsGame.unity
+    guid: 2c63248307195024e9f68eb424646967
+  - enabled: 1
+    path: Assets/Scenes/InstructionsSceneGame2.unity
+    guid: e8612d36aae70794eb163adaf1689e4f
+  - enabled: 1
+    path: Assets/Scenes/SkyWatcherGame.unity
+    guid: a028ed69cfdba3748a3b55f6489f1c8f
+  - enabled: 1
+    path: Assets/Scenes/GameSelection.unity
+    guid: 042d0a10d152f7949b764c3cfc82b76e
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
