@@ -12,9 +12,18 @@ Rakkiz is a graduation project that introduces an interactive game powered by Br
 - Emotiv Launcher (EEG integration with Unity/Python)
 
 ## Launching Instructions
-1. Clone the repo:
+1. Clone the repository:
    ```bash
    git clone https://github.com/Layan34/2025_GP_10.git
-2. Open the project in Unity Hub → 2025_GP_10/Unity
-3. Use Unity 2022.3.x LTS (check ProjectVersion.txt)
-4. Open MainScreen.unity from Scenes and press Play (Display Settings Full HD (1920x1080))
+2. Open the project in Unity Hub Go to:
+   ```bash
+   2025_GP_10/Unity
+4. Use the required Unity version (Unity 2022.3.x LTS)
+5. Open the main scene and run, from Assets/Scenes, open:
+   ```bash
+   Assets/Scenes/StartScene.unity
+Then press Play (resolution: Full HD 1920×1080)
+
+
+
+
