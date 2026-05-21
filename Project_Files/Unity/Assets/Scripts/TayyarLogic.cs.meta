@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 618ea8064645bc44da0d00bc786b831c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - heart1: {fileID: 7601107317628906057, guid: bc08e8002f5084f4bacb4c06afb676f3, type: 3}
+  - heart2: {instanceID: 0}
+  - heart3: {instanceID: 0}
+  - gameOverPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 8f25ff2c0d7348ebad02d07174e53013
+timeCreated: 1758227918
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332958
+  packageName: Simple Bar Graph
+  packageVersion: 1.0.1
+  assetPath: Assets/MKM Tools/Simple Bar Graph/Scripts/Render/YValue/OnlyTextYValueRender.cs
+  uploadId: 849356

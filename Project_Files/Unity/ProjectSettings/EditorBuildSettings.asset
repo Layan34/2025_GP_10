@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 99224d7b063064296870116a77188e2a
+  - enabled: 1
+    path: Assets/Scenes/EnterNameScene.unity
+    guid: ea993b178916a4a4194d115b80765bf2
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 3593b65ab6074b94f9276fb1bf41f2ef
+  - enabled: 1
+    path: Assets/Scenes/GameSelection.unity
+    guid: 042d0a10d152f7949b764c3cfc82b76e
+  - enabled: 1
+    path: Assets/Scenes/InstructionsSceneGame1.unity
+    guid: 5bc640978dc9fc848aa2098791ad2436
+  - enabled: 1
+    path: Assets/Scenes/InstructionsSceneGame2.unity
+    guid: e8612d36aae70794eb163adaf1689e4f
+  - enabled: 1
+    path: Assets/Scenes/TayyarGame.unity
+    guid: 2c63248307195024e9f68eb424646967
+  - enabled: 1
+    path: Assets/Scenes/RassdGame.unity
+    guid: a028ed69cfdba3748a3b55f6489f1c8f
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: e2ae54db68c0803449d7336fb4873c1a
+  - enabled: 1
+    path: Assets/Scenes/DashboardScene.unity
+    guid: b4037df2da3bf4743870268ac5014e91
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 0e03418fc75ca814282a9502b11ac907, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.localization.settings: {fileID: 11400000, guid: 706d363aaa344d744983c4a1ec3d4abb, type: 2}
+  m_UseUCBPForAssetBundles: 0

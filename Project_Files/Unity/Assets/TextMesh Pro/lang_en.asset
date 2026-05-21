@@ -1,0 +1,500 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: lang_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 43c4be1819a2c9941befb8f8360c914e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 3405801502730092614
+  m_TableData:
+  - m_Id: 1182268739584
+    m_Localized: 'Welcome to Rakkiz
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206477855117312
+    m_Localized: START
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208817576300544
+    m_Localized: Enter your name..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212609638158336
+    m_Localized: Please enter your name.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212761740398592
+    m_Localized: Name must contain English letters only.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 261705107329024
+    m_Localized: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 261892181676032
+    m_Localized: Instructions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262138974523392
+    m_Localized: "- Press space only when the square appears at the top.\n\n- If
+      it appears at the bottom, don\u2019t press.\n\n- Try to stay quick and accurate.\n\n-
+      Continue until the task ends."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262706287693824
+    m_Localized: BE READY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 263160744726528
+    m_Localized: ATTENTION SELF-ASSESSMENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 263337257816064
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 263443864440832
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 263601591242752
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 264224038539264
+    m_Localized: "TUTORIAL COMPLETED \nWELL DONE!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 266187971055616
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 505462452998144
+    m_Localized: 'Choose your game '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 507489136496640
+    m_Localized: '- Use the arrow keys to move the hot air balloon up and down.
+
+
+      -
+      Fly through the rings to earn points.
+
+
+      - Avoid the bombs to prevent
+      losing hearts.
+
+
+      - Stay focused and keep flying to achieve a higher score.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 508068218884096
+    m_Localized: Game Instructions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 508800468865024
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 508016545058816
+    m_Localized: '- You have a 2-second window to respond each time the falcon appears.
+
+
+      -
+      Press SPACE only when the falcon is above the cross.
+
+
+      - Do not press
+      anything if the falcon is below the cross, doing so will cost you one heart.
+
+
+      -
+      Stay focused and keep your hearts to reach a higher score.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522175110270976
+    m_Localized: GameOver
+    m_Metadata:
+      m_Items:
+      - rid: 3405801502730092614
+  - m_Id: 522473304313856
+    m_Localized: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522422557429760
+    m_Localized: 'omission: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522411140534272
+    m_Localized: 'Correct Responses: {0}'
+    m_Metadata:
+      m_Items:
+      - rid: 3405801502730092614
+  - m_Id: 522319755038720
+    m_Localized: 'SCORE: {0}'
+    m_Metadata:
+      m_Items:
+      - rid: 3405801502730092614
+  - m_Id: 522241128615936
+    m_Localized: 'PLAYER: {0}'
+    m_Metadata:
+      m_Items:
+      - rid: 3405801502730092614
+  - m_Id: 523018874212352
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 523227289178112
+    m_Localized: Resume
+    m_Metadata:
+      m_Items:
+      - rid: 3405801502730092614
+  - m_Id: 524407369191424
+    m_Localized: 'SCORE: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 548426084601856
+    m_Localized: Go!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 877022984622080
+    m_Localized: Player Name
+    m_Metadata:
+      m_Items:
+      - rid: 3405801502730092614
+  - m_Id: 877026738524160
+    m_Localized: 'Total sessions played: {0}'
+    m_Metadata:
+      m_Items:
+      - rid: 3405801502730092614
+  - m_Id: 877030161076224
+    m_Localized: 'Best score: {0}'
+    m_Metadata:
+      m_Items:
+      - rid: 3405801502730092614
+  - m_Id: 877033654931456
+    m_Localized: 'Average score: {0}'
+    m_Metadata:
+      m_Items:
+      - rid: 3405801502730092614
+  - m_Id: 877048586653696
+    m_Localized: 'Overall attention: {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 879636023431168
+    m_Localized: Average attention per session
+    m_Metadata:
+      m_Items: []
+  - m_Id: 879713592889344
+    m_Localized: Average score per day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 879815984238592
+    m_Localized: Sessions per day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 888257079758848
+    m_Localized: 'Language:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 888403557437440
+    m_Localized: Arabic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 888496406745088
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2419253256212480
+    m_Localized: Medium-High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2419256066396160
+    m_Localized: Medium-Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3100011796619264
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3535773642346496
+    m_Localized: Delete Account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3535925895581696
+    m_Localized: Dashboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3537094114103296
+    m_Localized: Are you sure you want to delete your account?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3537267938643968
+    m_Localized: cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3537402324144128
+    m_Localized: confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17787061418676224
+    m_Localized: Tayyar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17787107270807552
+    m_Localized: Rassd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17787022067716096
+    m_Localized: Please wait while we prepare your personalized experience...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28095389329809408
+    m_Localized: 'ATTENTION LEVEL: {0}'
+    m_Metadata:
+      m_Items:
+      - rid: 3405801502730092614
+  - m_Id: 35095629863931904
+    m_Localized: Total Sessions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35095780619800576
+    m_Localized: Best Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35096021569982464
+    m_Localized: Average Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35096211441930240
+    m_Localized: Attention
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35096370351525888
+    m_Localized: Score Trend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35097100730847232
+    m_Localized: 'AVERAGE REACTION TIME PER SESSION '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35097277193605120
+    m_Localized: Average attention per session
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35097615313227776
+    m_Localized: "Sessions \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42369851355123712
+    m_Localized: 'RECENT PERFORMANCE
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42369964190289920
+    m_Localized: 'PROGRESS OVERVIEW
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42370033018818560
+    m_Localized: 'SESSION HISTORY
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42370168733913088
+    m_Localized: 'KEEP PRACTICING, STAY FOCUSED, AND TRY TO BEAT YOUR PREVIOUS SCORE
+      IN THE NEXT SESSION.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42370320043429888
+    m_Localized: Correct Responses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42370424255107072
+    m_Localized: omission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42370511756677120
+    m_Localized: 'REACTION VARIABILITY
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42370656414027776
+    m_Localized: Average Reaction Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42674803449352192
+    m_Localized: GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43745364648742912
+    m_Localized: Before you begin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43745421045354496
+    m_Localized: 1. Put on the EEG headset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43745640935936000
+    m_Localized: Wear your EEG headset and confirm the signal is stable before starting.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43746019111161856
+    m_Localized: 2. Sit comfortably and stay still
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43746564936912896
+    m_Localized: How to play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43746756348170240
+    m_Localized: Use the arrow keys to move your airplane balloon up and down.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43747437121458176
+    m_Localized: Fly through the ring to earn points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43747549356838912
+    m_Localized: Avoid the bomb.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43747706651627520
+    m_Localized: "You have 300 trials \u2014 stay focused for the whole session."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748679876956160
+    m_Localized: Easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748707811020800
+    m_Localized: Slow pace, easy to react.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748796327612416
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748823896772608
+    m_Localized: Faster objects, stay alert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748878733103104
+    m_Localized: Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748944210382848
+    m_Localized: Very fast, full focus needed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43749662212313088
+    m_Localized: Difficulty adjusts automatically based on your performance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43749797809967104
+    m_Localized: Your attention level is tracked throughout the session via the EEG
+      headset.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43751981217828864
+    m_Localized: Minimize movement during the session to keep EEG readings accurate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748303228456960
+    m_Localized: Difficulty levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43774741180665856
+    m_Localized: Press Space only when the Square appears above the cross.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43775432301301760
+    m_Localized: Do not press anything for anything else.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43775600639692800
+    m_Localized: Try to stay quick and accurate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43775629282594816
+    m_Localized: Continue until the task ends.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43788511311384576
+    m_Localized: A stimulus appears briefly above or below the cross.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43788626965123072
+    m_Localized: Press Space only when the coffee appears above the cross.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43788787384668160
+    m_Localized: Do not press anything for anything else.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43788884226953216
+    m_Localized: "You have 300 trials \u2014 stay focused for the whole session."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43790578453139456
+    m_Localized: Coffee only, stay alert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43790687173693440
+    m_Localized: Other objects added, full focus needed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43810498427572224
+    m_Localized: Unfocus Indicator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43810576420655104
+    m_Localized: Focus Indicator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43901797675651072
+    m_Localized: Quit Game
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 3405801502730092614
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 522175110270976
+        - id: 522241128615936
+        - id: 522319755038720
+        - id: 522411140534272
+        - id: 523227289178112
+        - id: 877033654931456
+        - id: 877030161076224
+        - id: 877026738524160
+        - id: 877022984622080
+        - id: 28095389329809408

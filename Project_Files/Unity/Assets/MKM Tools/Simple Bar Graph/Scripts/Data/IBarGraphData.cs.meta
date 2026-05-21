@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a9f46442605d4bc796a276f822e90165
+timeCreated: 1757518623
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332958
+  packageName: Simple Bar Graph
+  packageVersion: 1.0.1
+  assetPath: Assets/MKM Tools/Simple Bar Graph/Scripts/Data/IBarGraphData.cs
+  uploadId: 849356

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 87161fea123a233489226c1727698bd3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332958
+  packageName: Simple Bar Graph
+  packageVersion: 1.0.1
+  assetPath: Assets/MKM Tools/Simple Bar Graph/Prefabs/Vertical Line.prefab
+  uploadId: 849356

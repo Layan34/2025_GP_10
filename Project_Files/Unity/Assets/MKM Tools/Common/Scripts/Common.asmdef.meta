@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eed01fd4dd975a44cbedcf47b4d7cc05
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332958
+  packageName: Simple Bar Graph
+  packageVersion: 1.0.1
+  assetPath: Assets/MKM Tools/Common/Scripts/Common.asmdef
+  uploadId: 849356

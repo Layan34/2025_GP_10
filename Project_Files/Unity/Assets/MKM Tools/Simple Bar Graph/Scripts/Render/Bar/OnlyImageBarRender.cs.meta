@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: acd779123ddc4526a1ad48b386cbca10
+timeCreated: 1758227617
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332958
+  packageName: Simple Bar Graph
+  packageVersion: 1.0.1
+  assetPath: Assets/MKM Tools/Simple Bar Graph/Scripts/Render/Bar/OnlyImageBarRender.cs
+  uploadId: 849356

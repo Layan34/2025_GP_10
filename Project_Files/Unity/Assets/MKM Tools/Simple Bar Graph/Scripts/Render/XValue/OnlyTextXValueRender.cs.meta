@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: bcd64ca8aa3f48338f6e4345e3ad7e11
+timeCreated: 1758228143
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332958
+  packageName: Simple Bar Graph
+  packageVersion: 1.0.1
+  assetPath: Assets/MKM Tools/Simple Bar Graph/Scripts/Render/XValue/OnlyTextXValueRender.cs
+  uploadId: 849356

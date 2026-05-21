@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 3c9660694c404a5d87927d0190d3c92d
+timeCreated: 1761934980
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332958
+  packageName: Simple Bar Graph
+  packageVersion: 1.0.1
+  assetPath: Assets/MKM Tools/Simple Bar Graph/Scripts/Render/Bar/IColorBar.cs
+  uploadId: 849356

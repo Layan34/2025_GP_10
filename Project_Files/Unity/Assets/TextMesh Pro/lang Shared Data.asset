@@ -1,0 +1,456 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: lang Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: lang
+  m_TableCollectionNameGuidString: 43c4be1819a2c9941befb8f8360c914e
+  m_Entries:
+  - m_Id: 1182268739584
+    m_Key: 'Welcome to Rakkiz
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206477855117312
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208817576300544
+    m_Key: Enter your name..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212609638158336
+    m_Key: warn_enter_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212761740398592
+    m_Key: warn_english_only
+    m_Metadata:
+      m_Items: []
+  - m_Id: 261705107329024
+    m_Key: Tutorial_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 261892181676032
+    m_Key: Instructions_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262138974523392
+    m_Key: Instructions_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262706287693824
+    m_Key: Ready_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 263160744726528
+    m_Key: SAM_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 263337257816064
+    m_Key: SAM_High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 263443864440832
+    m_Key: SAM_Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 263601591242752
+    m_Key: SAM_LOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 264224038539264
+    m_Key: Tutorial_Completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 266187971055616
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 505462452998144
+    m_Key: 'Choose '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 507489136496640
+    m_Key: GameInstructions_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 508016545058816
+    m_Key: GameInstructions_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 508068218884096
+    m_Key: GameInstructions_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 508800468865024
+    m_Key: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522175110270976
+    m_Key: GameOver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522241128615936
+    m_Key: PlayerLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522319755038720
+    m_Key: ScoreLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522411140534272
+    m_Key: Correct Responses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522422557429760
+    m_Key: omission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522473304313856
+    m_Key: HomeButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 523018874212352
+    m_Key: 'Settings
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 523227289178112
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 524407369191424
+    m_Key: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 548426084601856
+    m_Key: CountdownGo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 877022984622080
+    m_Key: PLAYER_NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 877026738524160
+    m_Key: TOTAL_SESSIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 877030161076224
+    m_Key: BEST_SCORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 877033654931456
+    m_Key: AVERAGE_SCORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 877048586653696
+    m_Key: OVERALL_ATTENTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 879636023431168
+    m_Key: AVG_ATTENTION_PER_SESSION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 879713592889344
+    m_Key: AVG_SCORE_PER_DAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 879815984238592
+    m_Key: SESSIONS_PER_DAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 888257079758848
+    m_Key: LANGUAGE_LABEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 888403557437440
+    m_Key: LANGUAGE_ARABIC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 888496406745088
+    m_Key: LANGUAGE_ENGLISH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2419253256212480
+    m_Key: Medium-High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2419256066396160
+    m_Key: Medium-Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3100011796619264
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3535773642346496
+    m_Key: DELETE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3535925895581696
+    m_Key: DashBoard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3537094114103296
+    m_Key: Delete_msg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3537267938643968
+    m_Key: cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3537402324144128
+    m_Key: confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17787022067716096
+    m_Key: tut_wait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17787061418676224
+    m_Key: Tayyar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17787107270807552
+    m_Key: Rassd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28095117098508288
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28095389329809408
+    m_Key: AttLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35095629863931904
+    m_Key: TotalSessionsValue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35095780619800576
+    m_Key: BestScoreValue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35096021569982464
+    m_Key: AverageScoreValue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35096211441930240
+    m_Key: AttentionCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35096370351525888
+    m_Key: ScoreTrend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35097100730847232
+    m_Key: AVG REACTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35097277193605120
+    m_Key: 'Average attention '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35097615313227776
+    m_Key: Sessions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42369851355123712
+    m_Key: 'RECENT PERFORMANCE
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42369964190289920
+    m_Key: 'PROGRESS OVERVIEW
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42370033018818560
+    m_Key: 'SESSION HISTORY
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42370168733913088
+    m_Key: KEEP PRACTICING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42370320043429888
+    m_Key: 'TARGETS HIT
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42370424255107072
+    m_Key: 'MISSED TARGETS
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42370511756677120
+    m_Key: 'REACTION VARIABILITY
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42370656414027776
+    m_Key: Avg Reaction Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42674803449352192
+    m_Key: GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43745364648742912
+    m_Key: Before you begin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43745421045354496
+    m_Key: Put on the EEG headset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43745640935936000
+    m_Key: WEAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43746019111161856
+    m_Key: SIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43746564936912896
+    m_Key: How to play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43746756348170240
+    m_Key: How1Tyyar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43747437121458176
+    m_Key: How2Tyyar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43747549356838912
+    m_Key: 'How3Tyyar '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43747706651627520
+    m_Key: 'How4Tyyar '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748303228456960
+    m_Key: Difficulty levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748679876956160
+    m_Key: Easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748707811020800
+    m_Key: Slow pace, easy to react.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748796327612416
+    m_Key: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748823896772608
+    m_Key: Faster objects, stay alert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748878733103104
+    m_Key: Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43748944210382848
+    m_Key: Very fast, full focus needed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43749662212313088
+    m_Key: New Entry 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43749797809967104
+    m_Key: New Entry 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43751981217828864
+    m_Key: mini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43774741180665856
+    m_Key: HOW1Tut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43775432301301760
+    m_Key: HOW2Tut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43775600639692800
+    m_Key: HOW3Tut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43775629282594816
+    m_Key: HOW4Tut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43788511311384576
+    m_Key: HOW1Rassd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43788626965123072
+    m_Key: HOW2Rassd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43788787384668160
+    m_Key: HOW3Rassd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43788884226953216
+    m_Key: HOW4Rassd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43790578453139456
+    m_Key: Coffee only, stay alert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43790687173693440
+    m_Key: Other objects added, full focus needed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43810498427572224
+    m_Key: Unfocus Indicator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43810576420655104
+    m_Key: Focus Indicator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43901797675651072
+    m_Key: 'Quit '
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3405801470672503044
+  references:
+    version: 2
+    RefIds:
+    - rid: 3405801470672503044
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1768789342120
