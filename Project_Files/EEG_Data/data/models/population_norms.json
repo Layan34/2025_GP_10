@@ -1,0 +1,57 @@
+{
+  "n_participants": 8,
+  "n_windows_total": 2090,
+  "n_windows_focused": 1457,
+  "n_windows_unfocused": 633,
+  "tbr": {
+    "focused_threshold": 1.0707869500692022,
+    "unfocused_threshold": 1.0836958711911724,
+    "direction": "higher_when_unfocused",
+    "center": 1.0772414106301873,
+    "scale": 0.12908921121970238,
+    "corrected": true,
+    "method": "direction_corrected_center_gap",
+    "raw_focused_mean": 1.0766272448381322,
+    "raw_unfocused_mean": 1.0786550592226425,
+    "focused_stats": {
+      "mean": 1.0766272448381322,
+      "std": 0.12533880559859853,
+      "median": 1.0724730051370226,
+      "q25": 0.9939222089394807,
+      "q75": 1.155678718131568
+    },
+    "unfocused_stats": {
+      "mean": 1.0786550592226425,
+      "std": 0.13732259474102754,
+      "median": 1.0639795596294084,
+      "q25": 0.9781753656472553,
+      "q75": 1.163446921530308
+    }
+  },
+  "bar": {
+    "focused_threshold": 1.1052682025893548,
+    "unfocused_threshold": 1.0925182075794773,
+    "direction": "higher_when_focused",
+    "center": 1.098893205084416,
+    "scale": 0.1274999500987767,
+    "corrected": true,
+    "method": "direction_corrected_center_gap",
+    "raw_focused_mean": 1.1002098617610874,
+    "raw_unfocused_mean": 1.0958626066990922,
+    "focused_stats": {
+      "mean": 1.1002098617610874,
+      "std": 0.12563442438438874,
+      "median": 1.096071795678087,
+      "q25": 1.0141360859451418,
+      "q75": 1.178640009866454
+    },
+    "unfocused_stats": {
+      "mean": 1.0958626066990922,
+      "std": 0.13164349237471834,
+      "median": 1.0944222757158637,
+      "q25": 1.0016964675095692,
+      "q75": 1.179241529200685
+    }
+  },
+  "notes": "Population-level norms computed from the full training dataset using mean and SD. Mean and SD are used here because the population aggregates many windows across multiple participants, providing a sufficiently large and stable sample. If raw means contradict the expected EEG-ratio direction or are too close, direction-corrected fallback thresholds are generated around the population center. Used as fallback in calibration when a player is missing one focus state. TBR is higher during unfocused states. BAR is higher during focused states."
+}

@@ -1,0 +1,3 @@
+participant,block,beh_hits,beh_false_alarms,beh_misses,beh_hr,beh_far,beh_dprime,beh_n_targets,beh_n_nontargets,behavior_source
+current_player,1,122.0,7.0,3.0,0.9722222222222222,0.20270270270270271,2.74651209507203,125.0,36.0,trial_rows
+current_player,2,124.0,4.0,2.0,0.9803149606299213,0.12162162162162163,3.2272164156105685,126.0,36.0,trial_rows

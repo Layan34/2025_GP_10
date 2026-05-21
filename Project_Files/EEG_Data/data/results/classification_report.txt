@@ -1,0 +1,124 @@
+======================================================================
+CLASSIFICATION REPORT  —  All folds combined
+======================================================================
+
+Model: LR
+--------------------------------------------------
+                 precision    recall  f1-score   support
+
+Not Focused (0)     0.2780    0.4392    0.3405       633
+    Focused (1)     0.6743    0.5045    0.5771      1457
+
+       accuracy                         0.4847      2090
+      macro avg     0.4762    0.4718    0.4588      2090
+   weighted avg     0.5543    0.4847    0.5055      2090
+
+
+Model: LinearSVC
+--------------------------------------------------
+                 precision    recall  f1-score   support
+
+Not Focused (0)     0.2783    0.4392    0.3407       633
+    Focused (1)     0.6746    0.5051    0.5777      1457
+
+       accuracy                         0.4852      2090
+      macro avg     0.4764    0.4722    0.4592      2090
+   weighted avg     0.5546    0.4852    0.5059      2090
+
+
+Model: SVM_RBF
+--------------------------------------------------
+                 precision    recall  f1-score   support
+
+Not Focused (0)     0.2404    0.2970    0.2657       633
+    Focused (1)     0.6598    0.5923    0.6242      1457
+
+       accuracy                         0.5029      2090
+      macro avg     0.4501    0.4447    0.4450      2090
+   weighted avg     0.5328    0.5029    0.5157      2090
+
+
+Model: HGB
+--------------------------------------------------
+                 precision    recall  f1-score   support
+
+Not Focused (0)     0.1250    0.0758    0.0944       633
+    Focused (1)     0.6571    0.7694    0.7088      1457
+
+       accuracy                         0.5593      2090
+      macro avg     0.3910    0.4226    0.4016      2090
+   weighted avg     0.4959    0.5593    0.5227      2090
+
+
+Model: RF
+--------------------------------------------------
+                 precision    recall  f1-score   support
+
+Not Focused (0)     0.0000    0.0000    0.0000       633
+    Focused (1)     0.6961    0.9952    0.8192      1457
+
+       accuracy                         0.6938      2090
+      macro avg     0.3481    0.4976    0.4096      2090
+   weighted avg     0.4853    0.6938    0.5711      2090
+
+
+Model: KNN
+--------------------------------------------------
+                 precision    recall  f1-score   support
+
+Not Focused (0)     0.1126    0.0648    0.0822       633
+    Focused (1)     0.6570    0.7783    0.7125      1457
+
+       accuracy                         0.5622      2090
+      macro avg     0.3848    0.4215    0.3974      2090
+   weighted avg     0.4921    0.5622    0.5216      2090
+
+
+Model: XGB
+--------------------------------------------------
+                 precision    recall  f1-score   support
+
+Not Focused (0)     0.1273    0.0664    0.0872       633
+    Focused (1)     0.6642    0.8023    0.7268      1457
+
+       accuracy                         0.5794      2090
+      macro avg     0.3957    0.4343    0.4070      2090
+   weighted avg     0.5016    0.5794    0.5331      2090
+
+
+Model: MLP
+--------------------------------------------------
+                 precision    recall  f1-score   support
+
+Not Focused (0)     0.2843    0.3633    0.3190       633
+    Focused (1)     0.6854    0.6026    0.6413      1457
+
+       accuracy                         0.5301      2090
+      macro avg     0.4849    0.4830    0.4802      2090
+   weighted avg     0.5639    0.5301    0.5437      2090
+
+
+Model: EEG_VGG16
+--------------------------------------------------
+                 precision    recall  f1-score   support
+
+Not Focused (0)     0.1552    0.0142    0.0260       633
+    Focused (1)     0.6929    0.9664    0.8071      1457
+
+       accuracy                         0.6780      2090
+      macro avg     0.4240    0.4903    0.4166      2090
+   weighted avg     0.5300    0.6780    0.5705      2090
+
+
+Model: EEG_ResNet
+--------------------------------------------------
+                 precision    recall  f1-score   support
+
+Not Focused (0)     0.3886    0.1074    0.1683       633
+    Focused (1)     0.7050    0.9266    0.8007      1457
+
+       accuracy                         0.6785      2090
+      macro avg     0.5468    0.5170    0.4845      2090
+   weighted avg     0.6091    0.6785    0.6092      2090
+
+======================================================================
