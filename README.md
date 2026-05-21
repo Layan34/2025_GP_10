@@ -238,7 +238,7 @@ No application login credentials are required.
 
 The player only needs to enter a player name inside the application.
 
-For EEG-based testing, an Emotiv account is required through Emotiv Launcher. No shared credentials are provided in this repository.
+For EEG-based testing, an Emotiv account is required through Emotiv Launcher.
 
 ## GitHub Repository Link
 
